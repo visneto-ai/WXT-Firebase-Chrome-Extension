@@ -1,0 +1,1 @@
+# WXT-Firebase-Chrome-Extension
